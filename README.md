@@ -1,1 +1,1 @@
-# Meu estudo de JavaScript - Pokedex
+# Meu estudo de JavaScript dentro do HTML e CSS - Pokedex
